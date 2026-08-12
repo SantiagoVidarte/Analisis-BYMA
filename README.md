@@ -32,6 +32,15 @@ decisiones de inversión:
   rendimientos del panel, correlación baja entre sí: 0.26).
 
 ---
+## Visualizaciones
+
+![Rendimiento total 2025](graficos/rendimiento.png)
+
+![Volatilidad anualizada 2025](graficos/volatilidad.png)
+
+![Ratio de Sharpe 2025](graficos/sharpe.png)
+
+![Matriz de correlación 2025](graficos/correlacion.png)
 
 ## Herramientas
 
