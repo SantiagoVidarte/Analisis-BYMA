@@ -34,13 +34,13 @@ decisiones de inversión:
 ---
 ## Visualizaciones
 
-![Rendimiento total 2025](graficos/rendimiento.png)
+![Rendimiento total 2025](./notebooks/graficos/rendimiento.png)
 
-![Volatilidad anualizada 2025](graficos/volatilidad.png)
+![Volatilidad anualizada 2025](./notebooks/graficos/volatilidad.png)
 
-![Ratio de Sharpe 2025](graficos/sharpe.png)
+![Ratio de Sharpe 2025](./notebooks/graficos/sharpe.png)
 
-![Matriz de correlación 2025](graficos/correlacion.png)
+![Matriz de correlación 2025](./notebooks/graficos/correlacion.png)
 
 ## Herramientas
 
